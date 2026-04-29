@@ -1,16 +1,3 @@
-# Heartfelt-Pet-Whispers-oraclecard
-an oracle card deck by andciao and Yu-cheng Kung
-card-draw/
-│
-├── index.html
-├── images/
-│   ├── card1.png
-│   ├── card2.png
-│   ├── ...
-│   ├── card66.png
-│   ├── cardback1.png
-│   ├── cardback2.png
-│   ├── cardback3.png
 <img width="402" height="473" alt="card66" src="https://github.com/user-attachments/assets/791b6d91-62da-46af-b43a-ad146936cbef" />
 <img width="403" height="473" alt="card65" src="https://github.com/user-attachments/assets/a53fe7e3-5068-48fd-adf5-bd52aeaa47af" />
 <img width="403" height="473" alt="card64" src="https://github.com/user-attachments/assets/bb8bd9dc-50a2-4414-a1cc-60364e18b1f1" />
